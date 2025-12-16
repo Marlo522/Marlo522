@@ -66,11 +66,11 @@ Web-based system for managing pet services and records
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:veluzmarlo938@gmail.com">
+  <a href="mailto:veluzmarlo959@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1D9RJPpsGR/" target="_blank">
+  <a href="https://www.facebook.com/share/1D9RJPpsGR/](https://www.facebook.com/share/1D9RJPpsGR/" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png"/>
   </a>
 </p>
