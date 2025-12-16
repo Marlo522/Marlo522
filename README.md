@@ -4,21 +4,33 @@
 💻 Aspiring Software / Web Developer  
 📍 Navotas City, Philippines  
 
-## 🚀 Skills
-- Languages: PHP, JavaScript, Python, Kotlin
-- Frameworks: Laravel, CodeIgniter, Android (Kotlin)
-- Web: HTML, CSS, Bootstrap
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
+🛠️ Skills
+
+🎨 Frontend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> </p>
+⚙️ Backend
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="45"/> </p>
+📱 Mobile Development
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45"/> </p>
+🗄️ Databases
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/> </p>
+🧰 Tools
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="45"/> </p>
 
 ## 📌 Featured Projects
+
 - **Pet Service Management System**  
   Web-based system for managing pet services and records  
   🔗 https://github.com/Marlo522/Pet-Service-Management-System
 
-- **DLink / MLink (Capstone Project)**  
-  Government service scheduling & document processing system  
-
 ## 📫 Contact
-- Email: veluzmarlo938@gmail.com
-- Facebook: [Profile Link]
+
+<p align="left">
+  <a href="mailto:veluzmarlo938@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" />
+  </a>
+
+  <a href="https://www.facebook.com/share/1D9RJPpsGR/" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" />
+  </a>
+</p>
