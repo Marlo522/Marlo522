@@ -4,7 +4,7 @@
   🎓 BS Information Technology (Web & Mobile Applications)<br/>
   💻 Aspiring Software / Web Developer<br/>
   📍 Navotas City, Philippines<br/><br/>
-  🌱 Currently learning <b>Reaxt.js</b> and <b>Laravel</b>
+  🌱 Currently learning <b>React.js</b> and <b>Laravel</b>
 </p>
 
 <p align="center">
