@@ -146,7 +146,7 @@ Web-based system for managing pet services and records.
     <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/marlo-jr-veluz-383a80284" target="_blank">
+  <a href="https://www.linkedin.com/in/marlo-jr-veluz-383a80284" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
