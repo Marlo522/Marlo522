@@ -29,6 +29,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  </a>
 </p>
 
 ### ⚙️ Backend
@@ -38,6 +41,12 @@
   </a>
   <a href="https://codeigniter.com/user_guide/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="45"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
   </a>
 </p>
 
@@ -51,7 +60,7 @@
   </a>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 <p align="left">
   <a href="https://www.mysql.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
@@ -61,6 +70,28 @@
   </a>
   <a href="https://www.mongodb.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  </a>
+  <a href="https://supabase.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45"/>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+  </a>
+</p>
+
+### ☁️ Cloud & Deployment
+<p align="left">
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45"/>
+  </a>
+  <a href="https://render.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/render/000000" width="45"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+  </a>
+  <a href="https://cloudinary.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="45"/>
   </a>
 </p>
 
@@ -90,9 +121,17 @@
 
 ## 📌 Featured Projects
 
+### 🎓 ISKKOLAR Mobile App
+Mobile application for the ISKKOLAR scholarship management system.  
+🔗 [View the mobile app repository](https://github.com/Marlo522/ISKKOLAR-Mobile)
+
+### 🎓 ISKKOLAR Web Application
+Web application for the ISKKOLAR scholarship management system.  
+🔗 [View the web application repository](https://github.com/iskkolarkkfi/ISKKOLAR)
+
 ### 🐾 Pet Service Management System
-Web-based system for managing pet services and records  
-🔗 https://github.com/Marlo522/Pet-Service-Management-System
+Web-based system for managing pet services and records.  
+🔗 [View the project repository](https://github.com/Marlo522/Pet-Service-Management-System)
 
 ---
 
