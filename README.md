@@ -129,10 +129,6 @@ Mobile application for the ISKKOLAR scholarship management system.
 Web application for the ISKKOLAR scholarship management system.  
 🔗 [View the web application repository](https://github.com/iskkolarkkfi/ISKKOLAR)
 
-### 🐾 Pet Service Management System
-Web-based system for managing pet services and records.  
-🔗 [View the project repository](https://github.com/Marlo522/Pet-Service-Management-System)
-
 ---
 
 ## 📫 Contact
